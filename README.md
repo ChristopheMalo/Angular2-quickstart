@@ -23,6 +23,8 @@ This project use TypeScript - new to Angular 2
 - Create the app sub-folder
 - Code the app component (app.component.ts)(hosts the client user experience)
 - Code the main file
+- Code the web index file
+- Code the CSS
 
 ## Memento package scripts
 - npm start - runs the compiler and a server at the same time, both in "watch mode"
