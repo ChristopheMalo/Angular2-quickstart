@@ -28,7 +28,7 @@ This project use TypeScript - new to Angular 2
 - First time compile the file: npm run tsc
 - And run the server (open index in browser): npm run lite
 - Next time, compile and run the application, use the script 'start' (from package.json): npm start
-- If change in ts and server up, the change appears automaticaly in the web browser due to watch and automatical compil
+- If change in ts files and server up, the change appears automaticaly in the web browser due to watch and automatical compil
 
 ## Memento package scripts
 - npm start - runs the compiler and a server at the same time, both in "watch mode"
