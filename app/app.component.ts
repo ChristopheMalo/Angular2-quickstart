@@ -10,7 +10,7 @@ import {Component} from 'angular2/core';
 // The decorator - What template use end hox to create the component
 @Component({
     selector: 'my-app',
-    template: '<h1>My first Angular 2 application</h1>'
+    template: '<h1>My first Angular 2 application</h1><p>with automatical change</p>'
 })
 
 // The class controls the appearance and behavior of view through its template
