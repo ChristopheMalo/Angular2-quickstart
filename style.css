@@ -1,0 +1,24 @@
+/**
+ * Simple CSS for the project
+ * 
+ */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700);
+body {
+  background: #D142C7;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  margin: 20px; }
+h1 {
+  color: #369;   
+  font-size: 250%;
+}
+h2, h3 { 
+  color: #444; 
+  font-weight: lighter;
+}
+body { 
+  margin: 2em; 
+}
+body, input[text], button { 
+  color: #888; 
+  font-family: Cambria, Georgia; 
+}
