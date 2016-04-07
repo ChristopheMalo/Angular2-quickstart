@@ -22,6 +22,7 @@ This project use TypeScript - new to Angular 2
 - Ignore this 2 folders in .gitignore file
 - Create the app sub-folder
 - Code the app component (app.component.ts)(hosts the client user experience)
+- Code the main file
 
 ## Memento package scripts
 - npm start - runs the compiler and a server at the same time, both in "watch mode"
